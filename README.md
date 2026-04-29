@@ -1,0 +1,4 @@
+ - This is a chat application build using Next JS, typescript, express and mongoDB
+ - Redis is used for OTP authentication
+ - Socket is used for real time communication between client and server
+ - Messages are handled using Rabbit MQ
